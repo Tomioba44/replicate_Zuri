@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topcontent{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+}
+.navcontent{
+    width: 92%;
+    margin: auto;
+}
+.toolbarroot{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.ingressivelogo{
+    margin-right: 2rem;
+    font-size: 18px;
+    min-width: 64px;
+
+}
+.thumbs{
+    display: flex;
+    max-width: 35px;
+    background-color: #e7332b;
+}
+.enrollogo{
+    position: initial;
+    display: flex;
+    cursor: pointer;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 0.02857em;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    background-color: #e7332b;
+    color: #FFF;
+    padding: 10px 20px;
+    text-transform: none;
+}
+.root1{
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 100%;
+    margin: auto;
+    widows: 100%;
+}
+.griditem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gridcontainer{
+    display: flex;
+    flex-flow: row wrap-reverse;
+    margin-top: -16px;
+    margin-left: -16px;
+    align-items: center;
+}
+.aboutbtn{
+    padding: 2rem;
+    text-transform: none;
+}
+.rightlogo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.btn{
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 2rem;
+    font-size: 18px;
+    color: black;
+}
+.centergrid{
+    padding-left: 16px;
+    padding-top: 16px;
+}
+.textsmall{
+    color: #e7332b;
+    font-family: ;
+    font-size: 18px;
+    text-align: center;
+}
+.textbig{
+    font-size: 49px;
+}
+.wire{
+    display: flex;
+    justify-content: right;
+    margin-left: -20px;
+    margin-bottom: 28px;
+}
+#Enrolbottun{
+    background: #e7332b;
+    color: white;
+    padding: 10px 32px;
+    text-transform: none;
+    border-radius: 71px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+}
+#line1{
+    width:33%;
+}
+.line2{
+    width: 15%;
+    margin-top: 50px;
+}
+.line3{
+    margin-left: 33px;
+    margin-top: -141px;
+    max-width: 1440px;
+    position: absolute;
+    width: 54px;
+}
+.rightgrid{
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    padding-top: 16px;
+    max-width: 25%;
+    justify-content: right;
+}
+.male1{
+    margin-left: 26px;
+    mix-blend-mode: darken;
+    width: 110%;
+}
+.root2{
+    margin: auto;
+    width:90%;
+    padding-top: 49px;
+    max-width: 1440px;
+   
+}
+#parag1{
+    font-weight: 600;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: inherit;
+    line-height: 130px;
+    width: 30%;
+    /* height: 20%; */
+}
+.read{
+    color: #43b97f;
+    cursor: pointer;
+    
+}
+#section2{
+    
+}
+#con3{
+    width: 30%;
+}
+#tohelp{
+    font-weight: 600;
+
+}
+.root3{
+    padding-top: 49px;
+    width: 89%;
+    margin: auto;
+}
+#whyZuri{
+    color: #e7332b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#box1{
+    background: #e7332b;
+    border-radius: 18px;
+    padding: 58px 48px 93px 50px;
+}
+.box1img{
+    display: flex;
+    float: right;
+    width: 42%;
+    margin-top: -58px;
+    margin-right: -49px;
+}
+#p01{
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFF;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    line-height: 130%;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+
+}
